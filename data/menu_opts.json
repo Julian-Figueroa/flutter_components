@@ -29,7 +29,12 @@
     {
       "route": "sliders",
       "icon": "tune",
-      "text": "Sliders"
+      "text": "Sliders - Checks"
+    },
+    {
+      "route": "lists",
+      "icon": "list",
+      "text": "Lists - Infinite Scroll"
     }
   ]
 }
